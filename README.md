@@ -1,2 +1,1 @@
-Hallo,
-Dashier ist unsere Projektarbeit in GitHub. :)
+Dokumentationen der Projektarbeit
